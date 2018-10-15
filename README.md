@@ -1,6 +1,7 @@
 # C_Pattern
 Different Pattern in C
 
+<pre>
 Pattern..C
    n = 4
    11111112
@@ -29,3 +30,4 @@ Pattern2.c
   4*5*6
   2*3
   1
+<pre>
